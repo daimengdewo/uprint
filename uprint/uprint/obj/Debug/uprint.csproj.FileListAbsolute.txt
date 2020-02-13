@@ -1,0 +1,15 @@
+F:\1\123\123\bin\Debug\123.exe
+F:\1\123\123\bin\Debug\123.pdb
+F:\1\123\123\obj\Debug\uprint.csprojResolveAssemblyReference.cache
+F:\1\123\123\obj\Debug\_123.Form1.resources
+F:\1\123\123\obj\Debug\_123.Properties.Resources.resources
+F:\1\123\123\obj\Debug\uprint.csproj.GenerateResource.Cache
+F:\1\123\123\obj\Debug\123.exe
+F:\1\123\123\obj\Debug\123.pdb
+F:\1\uprint\uprint\bin\Debug\uprint.exe
+F:\1\uprint\uprint\bin\Debug\uprint.pdb
+F:\1\uprint\uprint\obj\Debug\uprint.Form1.resources
+F:\1\uprint\uprint\obj\Debug\uprint.Properties.Resources.resources
+F:\1\uprint\uprint\obj\Debug\uprint.csproj.GenerateResource.Cache
+F:\1\uprint\uprint\obj\Debug\uprint.exe
+F:\1\uprint\uprint\obj\Debug\uprint.pdb
